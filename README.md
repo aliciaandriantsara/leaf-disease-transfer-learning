@@ -10,4 +10,4 @@ Dataset PlantVillage (Kaggle).
 Transfer learning avec MobileNetV2 (pré-entraîné sur ImageNet).
 
 ## Statut
-🚧 Projet en cours de développement.
+ Projet en cours de développement.
